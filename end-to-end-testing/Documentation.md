@@ -18,7 +18,7 @@ To build and run the project, the following need to be installed:
 - Clone the repository
 
 ```bash
-git clone [https://github.com/s0d-d/butopea-coding-task](https://github.com/s0d-d/butopea-coding-task)
+git clone https://github.com/s0d-d/butopea-coding-task
 ```
 
 - Change directory to project directory
